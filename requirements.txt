@@ -3,3 +3,7 @@ numpy
 matplotlib
 seaborn
 jupyter
+langchain
+sentence-transformers
+chromadb
+tqdm
